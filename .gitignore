@@ -1,0 +1,12 @@
+.DS_Store
+/.build
+/Packages
+/vertigram-bot.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+/vertigram-bot.xcodeproj/project.xcworkspace/xcuserdata/Argos.xcuserdatad/UserInterfaceState.xcuserstate
+/vertigram-bot.xcodeproj/xcshareddata/xcschemes/vertigram-bot.xcscheme
+/vertigram-bot.xcodeproj/xcshareddata/xcschemes/xcschememanagement.plist
+/vertigram-bot.xcodeproj/xcuserdata/Argos.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist
+/vertigram-bot.xcodeproj/xcuserdata/Argos.xcuserdatad/xcschemes/vertigram-bot.xcscheme
+/vertigram-bot.xcodeproj/xcuserdata/Argos.xcuserdatad/xcschemes/xcschememanagement.plist
+/token.rtf
+*.xcscmblueprint
